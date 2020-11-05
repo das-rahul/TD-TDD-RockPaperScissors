@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\dasra\OneDrive\Bureau\Nanterre\Méthode et Outils Dev et Genie\Génie Logiciel (tests)\TD_TestNG_Pierre_Papier_Ciseaux\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
